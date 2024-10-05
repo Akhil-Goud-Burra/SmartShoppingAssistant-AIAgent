@@ -18,6 +18,9 @@ Step6: Grant Vertex AI User ROLE to the AlloyDB service account
 ![ice_screenshot_20241005-092842](https://github.com/user-attachments/assets/ae0bade8-6acc-4d6b-874b-61cbd4830d0c)
 
 Step7: Create the Context from the Existing Data
+![ice_screenshot_20241005-093509](https://github.com/user-attachments/assets/8bde17f6-1412-41b5-9793-04873e69cbcc)
+
+Step7: Create the Context from the Existing Data
 ![ice_screenshot_20240923-100820](https://github.com/user-attachments/assets/15336178-2425-41dc-b8d0-7f0485437403)
 
 Step8: Perform Vector Search
