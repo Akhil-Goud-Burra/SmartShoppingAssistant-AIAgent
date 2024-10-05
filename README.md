@@ -26,6 +26,7 @@ Step8: Create Embeddings for the Context
 ![ice_screenshot_20240923-100820](https://github.com/user-attachments/assets/15336178-2425-41dc-b8d0-7f0485437403)
 
 
-
 Step8: Perform Vector Search
+![ice_screenshot_20241005-095842](https://github.com/user-attachments/assets/bbbdbff1-b531-4cdd-8122-3ea15e29fbf2)
+
 
