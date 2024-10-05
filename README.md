@@ -23,6 +23,10 @@ Step7: Create the Context from the Existing Data
 Step7: Create the Context from the Existing Data
 ![ice_screenshot_20240923-100820](https://github.com/user-attachments/assets/15336178-2425-41dc-b8d0-7f0485437403)
 
+![ice_screenshot_20241005-093705](https://github.com/user-attachments/assets/c7cecc37-338f-4709-a25c-6c362e4582f7)
+
+
+
 Step8: Perform Vector Search
 ![ice_screenshot_20240923-101426](https://github.com/user-attachments/assets/ad6d9e6b-f60f-4e29-aeec-b2245448dac1)
 
