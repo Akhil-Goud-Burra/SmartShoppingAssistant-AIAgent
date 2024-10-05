@@ -14,10 +14,13 @@ Step4: Creating Extension Vector and Enable Google ML Integration
 Step5: Create the Context for RAG
 ![ice_screenshot_20240923-100518](https://github.com/user-attachments/assets/ab1ac922-1905-459c-9ecf-2b4e64e59dba)
 
-Step6: Create Embeddings for the Context
+Step6: Grant Vertex AI User ROLE to the AlloyDB service account
+![ice_screenshot_20241005-092842](https://github.com/user-attachments/assets/ae0bade8-6acc-4d6b-874b-61cbd4830d0c)
+
+Step7: Create Embeddings for the Context
 ![ice_screenshot_20240923-100820](https://github.com/user-attachments/assets/15336178-2425-41dc-b8d0-7f0485437403)
 
-Step7: Perform Vector Search
+Step8: Perform Vector Search
 ![ice_screenshot_20240923-101426](https://github.com/user-attachments/assets/ad6d9e6b-f60f-4e29-aeec-b2245448dac1)
 
 
