@@ -28,10 +28,4 @@ Step8: Create Embeddings for the Context
 
 
 Step8: Perform Vector Search
-![ice_screenshot_20240923-101426](https://github.com/user-attachments/assets/ad6d9e6b-f60f-4e29-aeec-b2245448dac1)
 
-
-
-projects/smartshoppingassistant-85835/locations/us-central1/clusters/acluster/instances/avc
-
-Step3: 
