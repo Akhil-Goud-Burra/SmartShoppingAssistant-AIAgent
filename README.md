@@ -17,8 +17,6 @@ Step5: Create the Context for RAG
 Step6: Create Embeddings for the Context
 ![ice_screenshot_20240923-100820](https://github.com/user-attachments/assets/15336178-2425-41dc-b8d0-7f0485437403)
 
-![ice_screenshot_20240923-101426](https://github.com/user-attachments/assets/a0bf46c5-526e-4b77-9077-885465dc6635)
-
 Step7: Perform Vector Search
 ![ice_screenshot_20240923-101426](https://github.com/user-attachments/assets/ad6d9e6b-f60f-4e29-aeec-b2245448dac1)
 
