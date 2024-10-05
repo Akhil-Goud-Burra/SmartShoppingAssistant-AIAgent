@@ -26,7 +26,18 @@ Step8: Create Embeddings for the Context
 ![ice_screenshot_20240923-100820](https://github.com/user-attachments/assets/15336178-2425-41dc-b8d0-7f0485437403)
 
 
-Step8: Perform Vector Search
+Step9: Perform Vector Search
 ![ice_screenshot_20241005-095842](https://github.com/user-attachments/assets/bbbdbff1-b531-4cdd-8122-3ea15e29fbf2)
+
+Step10: Match Validation with the LLM ( " Let's use our generative AI model to validate if these potential responses are truly relevant and safe to share with the user or not. " )
+
+![ice_screenshot_20241005-105303](https://github.com/user-attachments/assets/64a270a4-7530-4353-b8e9-a39c8606b328)
+
+
+![ice_screenshot_20241005-110528](https://github.com/user-attachments/assets/676fc9bc-283f-4c24-8122-50a7072a888c)
+
+![ice_screenshot_20241005-110739](https://github.com/user-attachments/assets/01499577-bc02-49c1-9468-42659efd3b78)
+
+
 
 
