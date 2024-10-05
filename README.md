@@ -6,18 +6,20 @@ Step1: Create Cluster
 Step2: Alloy Studio: Create Table 
 ![ice_screenshot_20240923-094449](https://github.com/user-attachments/assets/85a4fc76-9b6f-491d-9e91-aef811fe721f)
 
+Step3: Insert Data
+![ice_screenshot_20241005-091938](https://github.com/user-attachments/assets/6723a87a-8e08-4378-8653-9d1e3ee6fad6)
 
-Step3: Creating Extension Vector and Enable Google ML Integration
+Step4: Creating Extension Vector and Enable Google ML Integration
 
-Step4: Create the Context for RAG
+Step5: Create the Context for RAG
 ![ice_screenshot_20240923-100518](https://github.com/user-attachments/assets/ab1ac922-1905-459c-9ecf-2b4e64e59dba)
 
-Step5: Create Embeddings for the Context
+Step6: Create Embeddings for the Context
 ![ice_screenshot_20240923-100820](https://github.com/user-attachments/assets/15336178-2425-41dc-b8d0-7f0485437403)
 
 ![ice_screenshot_20240923-101426](https://github.com/user-attachments/assets/a0bf46c5-526e-4b77-9077-885465dc6635)
 
-Step5: Perform Vector Search
+Step7: Perform Vector Search
 ![ice_screenshot_20240923-101426](https://github.com/user-attachments/assets/ad6d9e6b-f60f-4e29-aeec-b2245448dac1)
 
 
