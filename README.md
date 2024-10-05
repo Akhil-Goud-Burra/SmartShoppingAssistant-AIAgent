@@ -20,10 +20,11 @@ Step6: Grant Vertex AI User ROLE to the AlloyDB service account
 Step7: Create the Context from the Existing Data
 ![ice_screenshot_20241005-093509](https://github.com/user-attachments/assets/8bde17f6-1412-41b5-9793-04873e69cbcc)
 
+![ice_screenshot_20241005-093705](https://github.com/user-attachments/assets/c7cecc37-338f-4709-a25c-6c362e4582f7)
+
+
 Step7: Create the Context from the Existing Data
 ![ice_screenshot_20240923-100820](https://github.com/user-attachments/assets/15336178-2425-41dc-b8d0-7f0485437403)
-
-![ice_screenshot_20241005-093705](https://github.com/user-attachments/assets/c7cecc37-338f-4709-a25c-6c362e4582f7)
 
 
 
