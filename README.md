@@ -1,6 +1,17 @@
 # SmartShoppingAssistant-AIAgent
 A chat application designed to answer customer questions, guide product discovery, and tailor search results.
 
+The Challenge: Modern retail customers expect instant answers and product recommendations that align with their unique preferences. Traditional search methods often fall short of providing this level of personalization.
+
+The Solution: Our knowledge-driven chat application tackles this challenge head-on. It leverages a rich knowledge base derived from your retail data to understand customer intent, respond intelligently, and deliver hyper-relevant results.
+
+# Steps to create AI Assistant:
+1. Create an AlloyDB instance and load Ecommerce Dataset
+2. Enable the pgvector and generative AI model extensions in AlloyDB
+3. Generate embeddings from the product description
+4. Perform real time Cosine similarity search for user search text
+5. Deploy the solution in serverless Cloud Run Functions
+
 Step1: Create Cluster
 
 Step2: Alloy Studio: Create Table 
